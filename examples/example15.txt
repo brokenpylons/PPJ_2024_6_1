@@ -1,7 +1,1 @@
-var n = 5;
-var sum = 0;
-for (var i = 1, n) {
-    sum = sum + i * i;
-}
-
-print(sum);
+5 // 2

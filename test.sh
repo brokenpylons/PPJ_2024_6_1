@@ -2,7 +2,7 @@ declare -r path=$(dirname $(realpath "$0"))
 
 declare -i err=0
 
-for file in "$path"/examples/example{0..25}.txt
+for file in "$path"/examples/example{0..39}.txt
 do
     echo "$file"
     cat "$file"
